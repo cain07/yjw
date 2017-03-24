@@ -53,6 +53,9 @@ public class MainActivity extends Activity implements View.OnClickListener{
                 startActivity(intent);
                 break;
             case R.id.button3:
+                intent = new Intent();
+                intent.setClass(MainActivity.this,ActivityThree.class);
+                startActivity(intent);
                 break;
             case R.id.button4:
                 break;

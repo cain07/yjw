@@ -37,7 +37,7 @@
         android:id="@+id/button2"
         />
     <Button
-        android:text="Button"
+        android:text="代码添加2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
